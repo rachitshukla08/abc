@@ -2,4 +2,8 @@
 
 Added new line for pull
 
+
 Conflict
+
+Conflict 2
+
