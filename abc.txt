@@ -3,3 +3,5 @@
 3) asdasd
 
 Added new line for pull
+
+Conflict 2
